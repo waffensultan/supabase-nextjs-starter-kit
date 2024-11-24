@@ -1,4 +1,4 @@
-# Welcome to Supabase - Next.js Starter Kit!
+# Welcome to [Supabase - Next.js Starter Kit](https://github.com/waffensultan/supabase-nextjs-starter-kit)!
 
 Are you tired or looking to quickly setup Next.js and Supabase? You've come to the right repository.
 
