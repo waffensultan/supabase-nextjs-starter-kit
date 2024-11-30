@@ -12,13 +12,18 @@ This serves a boilerplate for you to quicky spin up your Supabase + Next.js proj
 git clone https://github.com/waffensultan/supabase-nextjs-starter-kit.git
 ```
 
-2. Install the project dependencies:
+2. It is recommended to wipe the repository of any Git configurations:
+```bash
+rm rf .git
+```
+
+3. Install the project dependencies:
 
 ```bash
 npm install
 ```
 
-3. Run the server:
+4. Run the server:
 
 ```bash
 npm run dev
